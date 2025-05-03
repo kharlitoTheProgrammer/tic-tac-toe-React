@@ -13,4 +13,4 @@ The game allows two players to take turns, detects win conditions, and highlight
 
 This project served as hands-on practice for working with React’s component lifecycle and functional programming concepts.
 
-🔗 **Live Demo:** [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+🔗 **Live Demo:** https://tic-tac-toe-rust-mu.vercel.app/
